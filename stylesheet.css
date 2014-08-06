@@ -1,5 +1,16 @@
-.navbar
+.navbar {
+	width: 100%;
+	height: 80px;
+	background-color: black;
+}
 
+.navbuttons {
+	float: right;
+	padding: 10px;
+	margin-right: 200px;
+	margin-top: 20px;
+	color: white;
+}
 
 .container
 
